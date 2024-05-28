@@ -150,6 +150,13 @@ a {
 
 /*shape divider start */
 
+.icon-span {
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: var(--secondary-color);
+  color: var(--bs-main-color);
+}
+
 .custom-shape-divider-bottom-1684208460 {
   position: absolute;
   bottom: 0;
